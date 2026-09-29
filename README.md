@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jahirunnisha
 
-<!--
-**jahirunnisha-tech/jahirunnisha-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  B.Tech Computer Science & Business Systems Student | Aspiring Software Developer | Hackathon Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science & Business Systems student interested in building practical technology solutions, strengthening my technical skills, and learning through hands-on experience.
+
+- Currently building my foundation in **Python, Java & Data Structures & Algorithms**
+- Exploring **AI/ML** and practical applications of AI
+- Interested in turning real-world problems into **useful technology solutions**
+- Participating in **hackathons, technical events & collaborative projects**
+- Learning through **hands-on projects and experimentation**
+- Continuously improving my **problem-solving and development skills**
+
+##  Technologies & Tools
+
+**Languages:** Python • Java • SQL
+
+**Currently Exploring:** DSA • Web Development • AI/ML • JavaScript
+
+**Tools:** Git • GitHub • VS Code
+
+## Current Goal
+
+Build strong technical foundations, create meaningful projects, participate in hackathons, and grow into a **skilled software developer and problem solver**.
+
+## Let's Connect
+
+Always open to **learning, collaborating, building, and exploring interesting technology projects.**
+
+> **Learn. Build. Experiment. Improve.**
